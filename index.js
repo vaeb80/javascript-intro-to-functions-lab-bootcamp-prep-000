@@ -10,9 +10,8 @@ function logShout(string){
 function logWhisper(string){
   return console.log(string.toLowerCase())
 }
-/*
 function sayHiToGrandma(string){
-  
+ 
 "I can\'t hear you!" if `string` is lowercase'
   
 "YES INDEED!" if `string` is uppercase', 
