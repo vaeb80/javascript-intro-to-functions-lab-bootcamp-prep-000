@@ -24,9 +24,3 @@ function sayHiToGrandma(string){
     return "What language are you speaking?"
   }
 }
-/*"I can\'t hear you!" if `string` is lowercase'
-  
-"YES INDEED!" if `string` is uppercase', 
-
-"I love you, too." if `string` is "I love you, Grandma."
-}*/
